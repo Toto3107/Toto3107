@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and growing.
 - 🌱 I’m currently learning cloud and devops.
 - 💞️ I’m looking to collaborate on cloud.
-- 📫 How to reach me mayankge147@gmaiul.com
+- 📫 How to reach me mayankge147@gmail.com
 - ⚡ Fun fact: I'm too boring.
 
 <!---
