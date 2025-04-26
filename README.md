@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mayank gehlot
 - 👀 I’m interested in learning and growing.
-- 🌱 I’m currently learning cloud and devops.
+- 🌱 I’m currently learning cloud,devops and ML.
 - 💞️ I’m looking to collaborate on cloud.
 - 📫 How to reach me mayankge147@gmail.com
 - ⚡ Fun fact: I'm too boring.
